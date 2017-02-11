@@ -1,0 +1,13 @@
+{
+    "name": "fsf11080612/hello-tom",
+    "description": "hello-tom",
+    "license": "MIT",
+    "keywords": ["hello-tom"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "fengshifen",
+            "email": "2413635079@qq.com"
+        }
+    ],
+}
